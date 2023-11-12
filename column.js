@@ -1,4 +1,4 @@
-const CHARACTERS = "645465465";
+const CHARACTERS = "12112023MICHAELGAGARIN";
 
 export class Column {
   constructor(x, fontSize, canvasHeight, context) {
