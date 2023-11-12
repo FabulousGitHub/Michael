@@ -22,7 +22,7 @@ body {
     height: 720px;
     width: 1080px;
     top: 40%;
-    left: 53%;
+    left: 60%;
     transform: translate(-30%, -12%);
     z-index: 1;
 }
@@ -38,7 +38,7 @@ body {
 
 .glitchedAnim,
 .invisible-text {
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 100;
   color: #fff;
   font-family:"Font";
