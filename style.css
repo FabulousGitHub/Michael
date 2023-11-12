@@ -60,7 +60,7 @@ body {
   animation: glitchAnim2 3s infinite;
 }
 .glitchedAnim:nth-child(4) {
-  color: green;
+  color: #25ff00;
   animation: glitchAnim1 3s infinite;
 }
 .txt-info {
