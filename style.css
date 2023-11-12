@@ -20,9 +20,9 @@ body {
 {
     position: fixed;
     height: 720px;
-    width: 1080px;
+    width: 320px;
     top: 40%;
-    left: 63%;
+    left: 58%;
     transform: translate(-30%, -12%);
     z-index: 1;
 }
