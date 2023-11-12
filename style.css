@@ -8,6 +8,14 @@ body {
   overflow: hidden;
 }
 
+.text
+{
+  font-family:"Font";
+  position: absolute;
+  color:green;
+  z-index:4;
+}
+
 #canvas {
   position: absolute;
   background: #000;
@@ -16,3 +24,10 @@ body {
   top: 0;
   left: 0;
 }
+
+@font-face {
+  font-family: "Font"; 
+  src: url("font.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+} 
