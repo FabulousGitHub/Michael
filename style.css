@@ -22,7 +22,7 @@ body {
     height: 720px;
     width: 1080px;
     top: 40%;
-    left: 60%;
+    left: 63%;
     transform: translate(-30%, -12%);
     z-index: 1;
 }
@@ -60,7 +60,7 @@ body {
   animation: glitchAnim2 3s infinite;
 }
 .glitchedAnim:nth-child(4) {
-  color: #f1f1f1;
+  color: green;
   animation: glitchAnim1 3s infinite;
 }
 .txt-info {
