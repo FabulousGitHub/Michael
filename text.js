@@ -2,15 +2,6 @@ window.onload = play();
 document.getElementById('tryAgain').addEventListener('click', () => { play() })
 
 function play() {
-  var blue = '#2980b9';
-  var p = l.select('path');
-  l.clear();
-  l.append(p);
-
-  p.attr({
-    fill: blue,
-    stroke: '#0066CC',
-  });
 
   setTimeout( function() {
     // modify this one line below, and see the result !
